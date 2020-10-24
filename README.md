@@ -52,11 +52,6 @@ Steps for contribution -
 
     1. Fork this repo
     2. commit the code
-    3. Make pull request
-
-
-## License 
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+    3. Make pull requests
 
 <img src="Assets/SponsorsDarkBoxed.svg" align="center" />
